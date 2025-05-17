@@ -116,7 +116,7 @@ export function AppSidebar({ ...props }: React.ComponentProps<typeof Sidebar>) {
           <SidebarMenuItem>
             <SidebarMenuButton size="lg" asChild>
               {/* <a href="/Dashboard"> */}
-              <Link href="/Dashboard/">Dashboard
+              <Link href="/Dashboard/">
                 <div className="bg-sidebar-primary text-sidebar-primary-foreground flex aspect-square size-8 items-center justify-center rounded-lg">
                   <NotebookTabsIcon className="size-4" />
                 </div>
