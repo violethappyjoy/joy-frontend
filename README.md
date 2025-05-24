@@ -1,4 +1,5 @@
 # Frontend for HappyJoy app
+**Version:** 0.0.1
 ## Overview
 Decoupled front-end for an *in-development* HappyJoy app.
 A Next.js frontend, containerized for development and production.  
